@@ -1,0 +1,1 @@
+### Hello this is my first AI project in my new learning journey
